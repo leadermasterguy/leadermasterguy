@@ -1,7 +1,7 @@
 ![sdfsdf](https://user-images.githubusercontent.com/30780494/188298184-6e307eca-6b4e-4d1c-acef-e87f99f7924a.png)![rrrat](https://user-images.githubusercontent.com/30780494/188298447-fead0eaf-839e-4eb4-b4fa-93117c410387.jpg)![crab slug](https://user-images.githubusercontent.com/30780494/188299748-daa049b2-7e4f-48a2-973a-76fcfa82ff05.jpg)
 
  # Introduction👋
-Hello, I'm leadermasterguy, or Nick T. This Github account primarily exists to host my school projects, although it was originally created for personal use(*hence the corny username*). I am currently pursuing an associates degree in computer programming.
+Hello, I'm leadermasterguy. This Github account primarily exists to host my school projects, although it was originally created for personal use(*hence the corny username*). I am currently pursuing an associates degree in computer programming.
  
  # Coding Experience💻
  I am rather green when it comes to programming, but most of what I have learned has been in the form of Java. I have a small amount of experience reading and writing Python and Lua(moreso Python).
